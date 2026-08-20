@@ -3,7 +3,7 @@ Netcore Solutions Network using Cisco Packet Tracer
 A Cisco Packet Tracer project that builds and configures the complete Netcore Solutions Network across three departments. The project covers network topology setup, IP addressing, router configuration, DHCP relay, connectivity testing, and access control using an ACL.
 
 
-Table of Contents
+Table of Contents:
 Project Overview
 Network Topology
 Tools and Technologies
@@ -12,7 +12,7 @@ Results and Findings
 Author
 
 
-Project Overview
+Project Overview:
 The purpose of this project was to build the Netcore Solutions Network in Cisco Packet Tracer and configure communication between three departments.
 
 The project involved:
@@ -25,7 +25,7 @@ Testing connectivity between all departments.
 Applying an Access Control List (ACL) to restrict HR from accessing the Admin department while allowing other traffic.
 
 
-Network Topology
+Network Topology:
 
 The network consists of three departments connected through a central router and switches.
 Router: 1 × Cisco 2911
@@ -40,7 +40,7 @@ The HR department uses the 192.168.30.0/24 network.
 The HR department was configured so that it could not access the Admin department after the ACL was applied.
 
 
-Tools and Technologies
+Tools and Technologies:
 Cisco Packet Tracer
 Cisco 2911 Router
 Cisco 2960 Switches
@@ -53,7 +53,7 @@ Ping
 Access Control List (ACL)
 
 
-Configuration Steps
+Configuration Steps:
 Build the complete Netcore Solutions Network topology in Cisco Packet Tracer.
 Place 1 Cisco 2911 router, 3 Cisco 2960 switches, 6 PCs, and 1 server in the topology.
 Connect all devices using the correct cables.
@@ -71,7 +71,7 @@ Confirm that HR cannot reach the Admin IP address 192.168.10.11.
 Confirm that communication between HR and Sales remains functional.
 
 
-Results and Findings
+Results and Findings:
 
 All network cables were connected correctly.
 The router interfaces were successfully configured.
