@@ -26,6 +26,7 @@ Applying an Access Control List (ACL) to restrict HR from accessing the Admin de
 
 
 Network Topology
+
 The network consists of three departments connected through a central router and switches.
 Router: 1 × Cisco 2911
 Switches: 3 × Cisco 2960
@@ -71,6 +72,7 @@ Confirm that communication between HR and Sales remains functional.
 
 
 Results and Findings
+
 All network cables were connected correctly.
 The router interfaces were successfully configured.
 Connectivity testing was successful with 0% packet loss before the ACL was applied.
